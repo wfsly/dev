@@ -1,0 +1,45 @@
+[
+    {
+        "campus_id":"1709", 
+        "campus_name": "中心校区",
+        "building_dict":
+            {
+                "buildings":[
+                            {"building_id": "1783", "building_name": "西院博学楼"}, 
+                            {"building_id": "1847", "building_name": "西院博文楼"},
+                            {"building_id": "1904", "building_name": "西院博知楼"},
+                            {"building_id": "1954", "building_name": "西院博远楼"},
+                            {"building_id": "2278", "building_name": "东12教"},
+                            {"building_id": "2050", "building_name": "东院德雅楼"},
+                            {"building_id": "2139", "building_name": "东院静思1教"},
+                            {"building_id": "2099", "building_name": "东院静思2教"},
+                            {"building_id": "2186", "building_name": "东院静思3教"}
+                            ]
+            }
+    },
+
+    {
+
+        "campus_id": "13041",
+        "campus_name": "东校区",
+        "building_dict":
+            {
+                "buildings":
+                    [
+                        {"building_id": "2556", "building_name": "东院1教"},
+                        {"building_id": "2585", "building_name": "东院2教"},
+                        {"building_id": "2610", "building_name": "东院3教"},
+                        {"building_id": "2641", "building_name": "东院4教"},
+                        {"building_id": "2685", "building_name": "东院综合楼"},
+                        {"building_id": "2706", "building_name": "西院1教"},
+                        {"building_id": "2748", "building_name": "西院2教"},
+                        {"building_id": "2791", "building_name": "西院2号实验楼"},
+                        {"building_id": "2821", "building_name": "西院3号实验楼"},
+                        {"building_id": "4121", "building_name": "西院图文中心"}
+
+                    ]
+            
+            }
+    }
+        
+]
